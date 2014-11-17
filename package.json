@@ -1,9 +1,31 @@
 {
-  "name": "comparing-languages",
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-compass": "~0.6.0",
-    "grunt-contrib-jshint": "~0.6.3",
+  "name": "ComparingLanguages",
+  "version": "0.0.1",
+  "description": "Comparing different Languages (Python, Scala, Java,...) to understand benefits of dynamic, static, or functional programming.",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compass": "^0.6.0",
+    "grunt-contrib-jshint": "^0.6.5",
     "grunt-contrib-watch": "^0.6.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dineshkumar-cse/Playing-With-Languages.git"
+  },
+  "keywords": [
+    "python",
+    "scala",
+    "java"
+  ],
+  "author": "dinesh kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshkumar-cse/Playing-With-Languages/issues"
+  },
+  "homepage": "https://github.com/dineshkumar-cse/Playing-With-Languages"
 }
